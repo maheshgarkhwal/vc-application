@@ -6,7 +6,7 @@
   "scripts": {
     "test": "nodemon server"
   },
-  "author": "Abhishek kalra",
+  "author": "mahesh garkhwal",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
